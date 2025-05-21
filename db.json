@@ -1,0 +1,20 @@
+{
+  "incidents": [
+    {
+      "id": "INC001",
+      "created_at":  "2025-05-20T08:00:00Z",
+      "acknowledged_at": "2025-05-20T08:02:00Z",
+      "detected_at":  "2025-05-20T08:05:00Z",
+      "resolved_at":  "2025-05-20T08:35:00Z",
+      "priority":     "high"
+    },
+    {
+      "id": "INC002",
+      "created_at":  "2025-05-21T10:15:00Z",
+      "acknowledged_at": "2025-05-21T10:18:00Z",
+      "detected_at":  "2025-05-21T10:20:00Z",
+      "resolved_at":  null,
+      "priority":     "medium"
+    }
+  ]
+}
