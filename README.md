@@ -1,2 +1,1 @@
-# incident-project
 # iim-system
